@@ -1,0 +1,83 @@
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\NdpOdev.exe
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\NdpOdev.deps.json
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\NdpOdev.runtimeconfig.json
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\NdpOdev.dll
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\NdpOdev.pdb
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.Form1.resources
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.Properties.Resources.resources
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.csproj.GenerateResource.cache
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.AssemblyInfoInputs.cache
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.AssemblyInfo.cs
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.csproj.CoreCompileInputs.cache
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.dll
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\refint\NdpOdev.dll
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.pdb
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.genruntimeconfig.cache
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\ref\NdpOdev.dll
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.OyunEkranı.resources
+C:\Users\RNET-Emir\source\repos\NdpOdev\obj\Debug\net8.0-windows\NdpOdev.YüksekSkorlar.resources
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\balon.jpeg
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\kalp.jpeg
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\mor.jpeg
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\portakal.jpeg
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\semsiye.jpeg
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\yıldız.jpeg
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\gokkusagi.png
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\helikopter.png
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\roket.png
+C:\Users\RNET-Emir\source\repos\NdpOdev\bin\Debug\net8.0-windows\resimler\yangın.png
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\resimler\gokkusagi.png
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\resimler\helikopter.png
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\resimler\roket.png
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\resimler\yangın.png
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.exe
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.deps.json
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.runtimeconfig.json
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.dll
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.pdb
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.Form1.resources
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.OyunEkranı.resources
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.Properties.Resources.resources
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.YüksekSkorlar.resources
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.csproj.GenerateResource.cache
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.AssemblyInfoInputs.cache
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.AssemblyInfo.cs
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.csproj.CoreCompileInputs.cache
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.dll
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\refint\NdpOdev.dll
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.pdb
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.genruntimeconfig.cache
+C:\Users\RNET-Emir\source\repos\NdpOdevv\obj\Debug\net8.0-windows\ref\NdpOdev.dll
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\resimler\sekil1.png
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\resimler\sekil2.png
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\resimler\sekil3.png
+C:\Users\RNET-Emir\source\repos\NdpOdevv\bin\Debug\net8.0-windows\resimler\sekil4.png
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\resimler\gokkusagi.png
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\resimler\helikopter.png
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\resimler\roket.png
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\resimler\yangın.png
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.exe
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.deps.json
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.runtimeconfig.json
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.dll
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\NdpOdev.pdb
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.Form1.resources
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.OyunEkranı.resources
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.YüksekSkorlar.resources
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.dll
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\refint\NdpOdev.dll
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.pdb
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\NdpOdev.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\obj\Debug\net8.0-windows\ref\NdpOdev.dll
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\resimler\elma.png
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\resimler\muz.png
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\resimler\armut.png
+C:\Users\muham\OneDrive\Masaüstü\Yeni klasör (2)\NdpOdevv\bin\Debug\net8.0-windows\resimler\üzüm.png
