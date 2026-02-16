@@ -1,0 +1,80 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="resimler\armut.png" />
+    <None Remove="resimler\balon.jpeg" />
+    <None Remove="resimler\elma.png" />
+    <None Remove="resimler\gokkusagi.png" />
+    <None Remove="resimler\helikopter.png" />
+    <None Remove="resimler\kalp.jpeg" />
+    <None Remove="resimler\mor.jpeg" />
+    <None Remove="resimler\muz.png" />
+    <None Remove="resimler\portakal.jpeg" />
+    <None Remove="resimler\roket.png" />
+    <None Remove="resimler\sekil1.png" />
+    <None Remove="resimler\sekil2.png" />
+    <None Remove="resimler\sekil3.png" />
+    <None Remove="resimler\sekil4.png" />
+    <None Remove="resimler\semsiye.jpeg" />
+    <None Remove="resimler\yangın.png" />
+    <None Remove="resimler\yıldız.jpeg" />
+    <None Remove="resimler\üzüm.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="resimler\elma.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="resimler\gokkusagi.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="resimler\helikopter.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="resimler\muz.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="resimler\roket.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="resimler\yangın.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="resimler\armut.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="resimler\üzüm.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
